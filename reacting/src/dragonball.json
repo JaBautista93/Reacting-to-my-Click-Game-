@@ -1,0 +1,62 @@
+[
+    {
+        "fighter": "Android 17",
+        "image": "public/assets/images/Android17.jpg"
+    },
+    {
+        "fighter": "Android 18",
+        "image": "public/assets/images/Android18.jpg"
+    },
+    {
+        "fighter": "Brianne",
+        "image": "public/assets/images/Brianne.jpg"
+    },
+    {
+        "fighter": "Cabba",
+        "image": "public/assets/images/Cabba.jpg"
+    },
+    {
+        "fighter": "Caulif",
+        "image": "public/assets/images/Caulif.jpg"
+    },
+    {
+        "fighter": "Dyspoo",
+        "image": "public/assets/images/Dyspoo.jpg"
+    },
+    {
+        "fighter": "Frieza",
+        "image": "public/assets/images/Frieza.jpg"
+    },
+    {
+        "fighter": "Frost",
+        "image": "public/assets/images/Frost.jpg"
+    },
+    {
+        "fighter": "Goku",
+        "image": "public/assets/images/goku.jpg"
+    },
+    {
+        "fighter": "Hit",
+        "image": "public/assets/images/Hit.jpg"
+    },
+    {
+        "fighter": "Jiren",
+        "image": "public/assets/images/Jiren.jpg"
+    },
+    {
+        "fighter": "Kefla",
+        "image": "public/assets/images/Kefla.jpg"
+    },
+    {
+        "fighter": "Paparonii",
+        "image": "public/assets/images/Paparonii.jpg"
+    },
+    {
+        "fighter": "Piccolo",
+        "image": "public/assets/images/Piccolo.jpg"
+    },
+    {
+        "fighter": "Toppo",
+        "image": "public/assets/images/Toppo.jpg"
+    }
+]
